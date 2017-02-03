@@ -5,18 +5,18 @@ info:
     \ in the swagger-2.0 specification"
   version: "1.0.0"
   title: "Swagger Petstore (Simple)"
-  termsOfService: "http://helloreverb.com/terms/"
+  termsOfService: "https://helloreverb.com/terms/"
   contact:
     name: "Swagger API team"
-    url: "http://swagger.io"
+    url: "https://swagger.io"
     email: "foo@example.com"
   license:
     name: "MIT"
-    url: "http://opensource.org/licenses/MIT"
+    url: "https://opensource.org/licenses/MIT"
 host: "testingher3.herokuapp.com"
-basePath: "/docs/api"
+basePath: "/api"
 schemes:
-- "http"
+- "https"
 consumes:
 - "application/json"
 produces:

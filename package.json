@@ -14,6 +14,8 @@
   "dependencies": {
     "connect": "^3.2.0",
     "js-yaml": "^3.3.0",
+    "lodash._basecreate": "^3.0.3",
+    "lodash.isobject": "^3.0.2",
     "swagger-tools": "0.9.*"
   }
 }
