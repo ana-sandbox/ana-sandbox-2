@@ -13,8 +13,8 @@ info:
   license:
     name: "MIT"
     url: "http://opensource.org/licenses/MIT"
-host: "testingher3.herokuapp.com/docs"
-basePath: "/api"
+host: "testingher3.herokuapp.com"
+basePath: "/docs/api"
 schemes:
 - "http"
 consumes:
